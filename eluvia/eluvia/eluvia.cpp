@@ -3,10 +3,9 @@
 
 #include <iostream>
 using namespace std;
-
 int main()
 {
-    cout << "Hello World!\n";
-
-    cout << "次回 浅野死す...\n";
+    int i = 1;
+    std::cout << "Hello World!\n";
+    cout << "これはテストです\n";
 }
