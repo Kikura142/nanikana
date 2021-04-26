@@ -2,8 +2,10 @@
 //
 
 #include <iostream>
-
+using namespace std;
 int main()
 {
+    int i = 1;
     std::cout << "Hello World!\n";
+    cout << "これはテストです\n";
 }
